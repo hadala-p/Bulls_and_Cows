@@ -1,0 +1,16 @@
+---------------------------------------------
+Data i godzina gry: 2023-01-04 21:28:01.302261
+Wylosowane slowo: klarnet
+
+Wybrana poczatkowa ilosc prob: 10
+Próba: 1)   Bulls:0 / Cows: 0 / Wyraz: dsad
+Próba: 2)   Bulls:0 / Cows: 0 / Wyraz: sasd
+Próba: 3)   Bulls:0 / Cows: 0 / Wyraz: biurko
+Próba: 4)   Bulls:1 / Cows: 1 / Wyraz: biurkos
+Próba: 5)   Bulls:0 / Cows: 1 / Wyraz: chomiks
+Próba: 6)   Bulls:0 / Cows: 0 / Wyraz: bateries
+Próba: 7)   Bulls:0 / Cows: 0 / Wyraz: baterie
+Próba: 8)   Bulls:0 / Cows: 0 / Wyraz: konike
+Próba: 9)   Bulls:0 / Cows: 0 / Wyraz: takinie
+Próba: 10)   Bulls:0 / Cows: 0 / Wyraz: alejsk
+---------------------------------------------
