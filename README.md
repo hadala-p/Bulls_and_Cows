@@ -1,8 +1,13 @@
 <h1 align="center">Bulls and Cows</h1>
+<div align="center">
+<img src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white"/>
+</div>
 <h4 align="center">A small terminal-based word game</h4>
 <p align="center"><img src="images_readme/menu.png"/></p>
 
 ## Table of contents
+
 * [General info](#bulls_and_cows)
 * [Rules](#rules)
 * [Features](#features)
